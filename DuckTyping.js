@@ -1,7 +1,3 @@
-<div id="domOutput"></div>
-
-<script>
-//debugger;
 var point2D = { 
   name: "Home",
   x: 3,
@@ -47,5 +43,3 @@ function displayPoint(point){
 displayPoint(point2D);
 displayPoint(point3D);
 displayPoint(me);
-
-</script>

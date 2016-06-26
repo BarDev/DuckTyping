@@ -1,0 +1,9 @@
+typings
+**/app/**/*.js
+**/app/**/*.map
+node_modules
+jspm_packages
+bower_components
+C# Static Typing - Duck Typing.linq
+Duck Typing Objects.vsdx
+!system.config.js
